@@ -1,0 +1,13 @@
+# Игнорируем папку node_modules
+node_modules/
+
+# Игнорируем файлы конфигурации среды
+.env
+
+# Игнорируем файлы логов
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Игнорируем временные файлы
+.DS_Store
